@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <h4 align="left">Mes repositories d'entraînement</h4>
+    <h4 align="left">Entraînement Bootstrap</h4>
         <table align="center">
             <tr>
                 <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/00-copier-coller.md?plain=1">00-Base du code des fichiers</a> - Lien d'intallation CSS et JavaScript </td>
@@ -40,16 +40,16 @@
                 <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/16-composant-alerts.html">16-Composant-alerts</a> - Utilisation des classes alert</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/eust-w/rsm">07-Images</a> - Utilisation des classes img</td>
-                <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">17-Composant-bouton</a> - Utilisation des classes btn</td>
+                <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/07-images.html">07-Images</a> - Utilisation des classes img</td>
+                <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/17-composant-bouton.html">17-Composant-bouton</a> - Utilisation des classes btn</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/eust-w/rsm">08-Tableaux</a> - Utilisation des classes table</td>
-                <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">18-Composant-carousel</a> - Utilisation des classes carousel</td>
+                <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/08-tableaux.html">08-Tableaux</a> - Utilisation des classes table</td>
+                <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/18-composant-carousel.html">18-Composant-carousel</a> - Utilisation des classes carousel</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/eust-w/rsm">09-Background-color</a> - Utilisation des classes bg</td>
-                <td><a href="https://github.com/eust-w/obsidian-image-auto-upload">19-Composant-nav</a> - Utilisation des classes nav</td>
+                <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/09-background-color.html">09-Background-color</a> - Utilisation des classes bg</td>
+                <td><a href="https://github.com/DorianABDS/BootstrapWorkshop/blob/main/19-composant-nav.html">19-Composant-nav</a> - Utilisation des classes nav</td>
             </tr>
         </table>
 </div>
